@@ -16,7 +16,6 @@ This repository contains a combined Machine Learning and Deep Learning pipeline 
 
 **Files**
 - `notebooks/Lung_Cancer_Detection_ML_DL.ipynb` — main notebook
-- `data/dataset_med.csv` — dataset (copied from your upload)
 - `requirements.txt` — Python packages to install
 - `README.md` — this file
 
