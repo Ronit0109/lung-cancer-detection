@@ -1,0 +1,12 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+scipy
+jupyter
+notebook
+scikit-plot
+tensorflow>=2.0; platform_system != "Windows" or platform_system == "Linux"
+keras
+joblib
